@@ -12,6 +12,8 @@ The webpage consists of six colored sections arranged in a structured format. Th
 🔗 **View the layout here:**  
 https://haniakhan2006.github.io/_Urraan_Internship_Task_01/
 
+---
+
 # Objectives
 
 - Learn the basic structure of an HTML webpage.
