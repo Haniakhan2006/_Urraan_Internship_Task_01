@@ -1,6 +1,6 @@
-# 🎨 HTML & CSS Layout Design
+# HTML & CSS Layout Design
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a simple webpage layout created using **HTML5** and **CSS3**. The purpose of this project is to recreate a given layout design by using basic web development concepts such as containers, divisions, colors, borders, spacing, and Flexbox.
 
@@ -8,7 +8,7 @@ The webpage consists of six colored sections arranged in a structured format. Th
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Learn the basic structure of an HTML webpage.
 - Practice CSS styling techniques.
@@ -18,7 +18,7 @@ The webpage consists of six colored sections arranged in a structured format. Th
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - HTML5
 - CSS3
@@ -26,7 +26,7 @@ The webpage consists of six colored sections arranged in a structured format. Th
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Layout-Design/
@@ -38,39 +38,39 @@ Layout-Design/
 
 ---
 
-# 📖 Project Components
+#  Project Components
 
 The webpage contains the following sections:
 
-### 🔴 Header
+###  Header
 - Positioned at the top.
 - Red background color.
 - Full-width container.
 
-### 🔵 Navigation Section
+### Navigation Section
 - Located below the header.
 - Blue background.
 - Full-width layout.
 
-### 🟨 Left Content Section
+###  Left Content Section
 - Yellow rectangular box.
 - Positioned on the left side.
 
-### 🟧 Lower Left Section
+### Lower Left Section
 - Orange rectangular box.
 - Placed directly below the yellow section.
 
-### 🩷 Right Sidebar
+###  Right Sidebar
 - Pink vertical box.
 - Positioned beside the yellow and orange boxes.
 
-### ⬜ Footer
+###  Footer
 - Gray background.
 - Full-width footer section.
 
 ---
 
-# ✨ Features
+#  Features
 
 - Clean HTML structure
 - CSS Flexbox layout
@@ -82,7 +82,7 @@ The webpage contains the following sections:
 
 ---
 
-# ⚙️ How It Works
+# How It Works
 
 1. The **HTML** file creates the webpage structure.
 2. The **CSS** file styles each section.
@@ -92,7 +92,7 @@ The webpage contains the following sections:
 
 ---
 
-# 🚀 How to Run the Project
+#  How to Run the Project
 
 ### Method 1
 
@@ -111,7 +111,7 @@ Using Visual Studio Code:
 
 ---
 
-# 📚 Concepts Practiced
+#  Concepts Practiced
 
 - HTML Elements
 - Div Containers
@@ -127,7 +127,7 @@ Using Visual Studio Code:
 
 ---
 
-# 💡 Learning Outcomes
+#  Learning Outcomes
 
 After completing this project, you will be able to:
 
@@ -139,7 +139,7 @@ After completing this project, you will be able to:
 
 ---
 
-# 📸 Expected Output
+# Expected Output
 
 The webpage displays:
 
@@ -154,7 +154,7 @@ arranged according to the provided reference design.
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Make the layout fully responsive.
 - Add hover effects.
@@ -165,7 +165,7 @@ arranged according to the provided reference design.
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Hania Khan**
 
