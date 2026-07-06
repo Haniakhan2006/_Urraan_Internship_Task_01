@@ -7,6 +7,10 @@ This project is a simple webpage layout created using **HTML5** and **CSS3**. Th
 The webpage consists of six colored sections arranged in a structured format. The design demonstrates how different HTML elements can be organized and styled to match a reference layout while maintaining clean and readable code.
 
 ---
+# Live Demo
+
+🔗 **View the layout here:**  
+https://haniakhan2006.github.io/_Urraan_Internship_Task_01/
 
 # Objectives
 
